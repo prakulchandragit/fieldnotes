@@ -1,0 +1,16 @@
+:root {
+  --ivory: #f6f1e4;
+  --paper: #fbf8ef;
+  --forest: #1f3d2b;
+  --forest-soft: #3a5a46;
+  --moss: #7d8f5b;
+  --moss-light: #dfe4cc;
+  --earth: #7a5a3c;
+  --sun: #e8c95a;
+  --line: rgba(31, 61, 43, 0.18);
+  --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --radius: 4px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --gutter: clamp(1.25rem, 5vw, 3rem);
+}
