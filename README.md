@@ -1,9 +1,4 @@
-# Fieldnotes
 
-An outdoor nature-journal PWA for the Hacktoberfest 2026 Open-Source AI Challenge, Week 1: Touch Grass.
-You photograph or describe a bird, plant or insect, a **local Gemma 4 model** reads it and says how sure it is, the entry is saved to an offline journal, and the app then hands you a short screen-free quest and gets out of the way.
-
-> Project history: built for this challenge. Any commits made after the submission deadline are listed under "Post-deadline changes" at the bottom.
 
 ## How it works
 
